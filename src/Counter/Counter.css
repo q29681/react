@@ -1,0 +1,25 @@
+.number{
+    flex-grow: 1;
+    text-align: center;
+    border-left: 1px solid brown;
+    border-right: 1px solid brown;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.button{
+    background: none;
+    border: none;
+    width: 32px;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+}
+
+.wrapperr{
+    display: flex;
+    border: 1px solid black;
+    height: 32px;
+    width: 120px;
+    border-radius: 60px;
+}

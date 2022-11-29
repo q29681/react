@@ -1,0 +1,19 @@
+.wrapperrr{
+  background-color: green;
+  display: flex;  
+}
+
+.tab {
+    box-sizing: border-box; 
+    padding: 8px 16px;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.5);
+    border-color: greenyellow;
+}
+
+.tab.isActive{
+    color: white;
+    border-color: pink;
+}
